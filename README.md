@@ -1,4 +1,4 @@
-# Bankist
+# Bankist App
 
 Accounts
 
